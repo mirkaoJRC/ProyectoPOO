@@ -7,5 +7,9 @@ Nota: Acepta mayusculas y minusculas al momento de ingresar...
 - Si el usuario ingreso algun no correspondiente muestra una caja de mensajes negando la entrada al proyecto.
 - Despues de escribir el usuario debe dar click en el boton confirmar.
 - El programa muestra dos botones los cuales son:
-* Mostrar Imagenes: muestra una imagen a colores y otra imagen en blanco y negro(gris)
+* Iniciar programa: muestra una imagen a colores y otra imagen en blanco y negro(gris)
 * Salir de la Aplicacion: Cierra la segunda ventana
+
+### Detalles
+En las dos ventanas se coloco diferentes logotipos
+Para ejecutar programa debe estar instalado las librerias Tkinter y Open CV
