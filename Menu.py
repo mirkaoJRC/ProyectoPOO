@@ -81,7 +81,7 @@ class windowclass():
                         self.newWindow = tk.Toplevel(self.master)
                         self.app = windowclass1(self.newWindow)
                 else:
-                        messagebox.showwarning("Cuidado", "Passwoed Incorrecto\n***Vuelva a intenetar***")
+                        messagebox.showwarning("Cuidado", "Password Incorrecto\n***Vuelva a intenetar***")
 
 
 class windowclass1():
